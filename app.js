@@ -1,5 +1,5 @@
 const button = document.addEventListener('click', () => {
-    console.log("hii azam")
+    console.log("hii console")
 });
 const slides = document.querySelectorAll(".slide");
 console.log(slides);
